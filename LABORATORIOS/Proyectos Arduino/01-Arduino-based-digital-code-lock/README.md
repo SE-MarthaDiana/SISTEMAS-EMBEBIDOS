@@ -10,5 +10,5 @@ Martha Diana Ramírez Torres. Simulación
 
 Introducción
 
-El siguiente proyecto utiliza una serie de elementos de entrada y de salida para simular el acceso de una puerta
+El siguiente proyecto utiliza una serie de elementos de entrada y de salida para simular el acceso de una puerta.
 
