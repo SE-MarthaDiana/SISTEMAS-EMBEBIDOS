@@ -1,20 +1,11 @@
-# Tarea Número 01
-## Sensores y Actuadores
-## Presentación en diapositivas / mapa mental / 
-### Sergio Francisco Hernández Machuca
+# Tarea Número 05
+## Interrupciones en Arduino
+## Código y simulación 
+### Martha Diana Ramírez Torres
 
-En esta sección se encuentra lo relacionado con Sensores:
-1. Definición
-2. Características
-3. Clasificación según el principio físico de funcionamiento
-4. Clasificación según tipo de señal que entregan
-5. Clasificación por el tipo de bus que usan (IIC, SPI, Serial, Otro)
+Hacer una aplicación para Arduino, simulada en Proteus, empleando interrupciones, que realice lo siguiente: 
 
-Continúa con con el tratamiento de los Sensores:
-1. Definición
-2. Características
-3. Clasificación según el principio físico de funcionamiento
-4. Clasificación según tipo de señal que entregan
-5. Clasificación por el tipo de bus que usan (IIC, SPI, Serial, Otro)
+1. Genere un letrero en la terminal del canal serial asíncrono (Tx, Rx, a 57.600 bauds) que especifique cuando ocurre la interrupción.
 
-Esta tarea se entregó el día 23 de septiembre del 2020, año del Covid-19.
+3. Construir una aplicación que atienda la llegada de comunicaciones por el canal serial en función de las interrupciones que ocasione el arribo de datos por el canal serial.
+Cada vez que llegue información por el canal serial, que se invoque una función que procese lo que llegó.
