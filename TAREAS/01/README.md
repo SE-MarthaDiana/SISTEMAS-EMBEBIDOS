@@ -2,6 +2,7 @@
 ## Sensores y Actuadores
 ## Presentación en Prezi
 ### Martha Diana Ramírez Torres
+#### Link a la presentación en Prezi: https://prezi.com/view/ZpEuwPbFpwuBtoxkley1/
 
 En esta sección se encuentra lo relacionado con Sensores:
 1. Definición

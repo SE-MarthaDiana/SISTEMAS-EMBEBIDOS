@@ -1,6 +1,6 @@
-# Tarea Número 01
-## Sistemas embebidos
-## Presentación en diapositivas / mapa mental / 
-### Martha Diana Ramírez Torres
+# TAREA NÚMERO 2
+## SISTEMAS EMBEBIDOS
+## PRESENTACIÓN EN DIAPOSITIVAS
+### MARTHA DIANA RAMÍREZ TORRES
 
-En esta presentación se explica lo que son los sistemas embebidos y algunos ejemplos.
+En esta presentación se define a los sistemas embebidos y se muestran ejemplos. 
