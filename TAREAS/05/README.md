@@ -1,7 +1,10 @@
 # Tarea Número 05
 ## Interrupciones en Arduino
 ## Código y simulación 
+### Equipo 1:
 ### Martha Diana Ramírez Torres
+### Juan Manuel Hernández Hrenández
+### Isaí Fomperoza Salgado
 
 Hacer una aplicación para Arduino, simulada en Proteus, empleando interrupciones, que realice lo siguiente: 
 
