@@ -1,4 +1,4 @@
-# Tarea Número 05
+# Tarea Número 06
 ## Menú Arduino LCD
 ## Código Arduino y Simulación 
 ### Martha Diana Ramírez Torres
