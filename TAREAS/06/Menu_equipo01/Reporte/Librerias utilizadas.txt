@@ -1,0 +1,4 @@
+Cuando se quiera habilitar un encoder como entrada ---> https://github.com/PaulStoffregen/Encoder
+Menu LCD ----> https://github.com/Jomelo/LCDMenuLib2
+Sensor DHT11 -----> https://github.com/winlinvip/SimpleDHT
+Pantalla LCD i2c ------> https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
